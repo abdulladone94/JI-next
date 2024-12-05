@@ -30,7 +30,7 @@ import Footer from "../Footer/Footer";
 
 const sampleArray = [
   {
-    img: "/images/home-banner/GRP.png",
+    img: "/images/home-banner/GNP1.png",
     description:
       "Sometimes, we need to check the time, wondering when our work or meeting will finish, without getting caught by others.",
     title: "Time Tag Watch",
@@ -62,7 +62,7 @@ const sampleArray = [
 ];
 const thumbArray = [
   {
-    img: "/Images/home-banner/GRP.png",
+    img: "/Images/home-banner/GNP1.png",
   },
   {
     img: "/Images/home-banner/AME.png",
