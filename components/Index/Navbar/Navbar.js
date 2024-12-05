@@ -21,7 +21,7 @@ export default function Navbar() {
         },
       }}
     >
-      <div className={`${styles.logo} link`}>DROVE</div>
+      <div className={`${styles.logo} link`}>Jewel Iconic</div>
       <div
         className={`${styles.menu} link`}
         onMouseEnter={() => setHovered(true)}
