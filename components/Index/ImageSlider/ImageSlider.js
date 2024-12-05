@@ -145,10 +145,10 @@ export default function ImageSlider() {
                 <Image
                   src={ele.img}
                   alt="image"
-                  layout="responsive"
+                  layout="fill"
                   className="slider-image"
-                  width="1000"
-                  height="800"
+                  // width="1000"
+                  // height="800"
                 />
                 <div className={styles.slide_content_wrapper}>
                   <div className={styles.slide_content}>
